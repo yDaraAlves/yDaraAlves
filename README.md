@@ -23,8 +23,6 @@
 </div>
 
 <div style="display: inline_block"><br/>
-<img align="center" alt="linguagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats>
-
-
+<img align="center" alt="linguagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yDaraAlves&langs_count=8)](https://github.com/yDaraAlves/github-readme-stats)">
 </div>
 
